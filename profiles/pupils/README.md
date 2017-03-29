@@ -2,6 +2,7 @@
 
 - [Adeonir Kohl](profiles/AdeonirKohl.md)
 - [Adelmo Junior](profiles/AdelmoJunior.md)
+- [Alberto Alfredo](profiles/AlbertoAlfredo.md)
 - [Alex Avila](profiles/AlexAvila.md)
 - [Alex Santana Barazal](profiles/AlexBarazal.md)
 - [Allan Ramos](profiles/AllanRamos.md)
