@@ -23,3 +23,4 @@ Mande um alô! para lucas.henrique223@gmail.com ou nas redes sociais.
 - Heitor Augusto Borges Pereira
 - Antonio Marcos
 - Willian Oliveira
+- Alberto Alfredo
